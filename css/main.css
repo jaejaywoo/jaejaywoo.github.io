@@ -107,6 +107,11 @@ ul {
   margin-left: 15px;
 }
 
+p[class~="tldr"] {
+  font-size: 16px;
+  margin-right: 80px;
+}
+
 papertitle {
   font-size: 18px;
   font-weight: 700;
